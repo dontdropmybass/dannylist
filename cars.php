@@ -48,7 +48,7 @@ include("options.php");
 ?>
 	
 <div class="container">
-	<?php while ($row = mysql_fetch_assoc($sql_result)) { ?>
+	<?php while ($row = mysqli_fetch_assoc($sql_result)) { ?>
     <div class="card-container">
         <div class="card">
             <div class="front">
