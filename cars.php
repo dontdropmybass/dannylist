@@ -43,7 +43,7 @@ include("options.php");
 <body>
 <?php
 	$sql = "SELECT * FROM ".$SETTINGS["CARS"]."";
-	$sql_result = mysql_query ($sql, $connection ) or die ('request "Could not execute SQL query" '.$sql);
+	$sql_result = mysqli_query ($connection, $sql ) or die ('request "Could not execute SQL query" '.$sql);
 
 ?>
 	
