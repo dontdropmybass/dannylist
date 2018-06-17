@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e790d92-fe1b-4822-87e9-6dcde0be8dff" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cars.php" beforeDir="false" afterPath="$PROJECT_DIR$/cars.php" afterDir="false" />
-    </list>
+    <list default="true" id="5e790d92-fe1b-4822-87e9-6dcde0be8dff" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +14,8 @@
       <file leaf-file-name="cars.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cars.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="459">
+              <caret line="45" column="107" lean-forward="true" selection-start-line="45" selection-start-column="107" selection-end-line="45" selection-end-column="107" />
             </state>
           </provider>
         </entry>
@@ -122,12 +119,12 @@
       <option name="presentableId" value="Default" />
       <updated>1529246937337</updated>
       <workItem from="1529246940356" duration="1378000" />
-      <workItem from="1529250084475" duration="243000" />
+      <workItem from="1529250084475" duration="508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1621000" />
+    <option name="totallyTimeSpent" value="1886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -221,8 +218,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cars.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="459">
+          <caret line="45" column="107" lean-forward="true" selection-start-line="45" selection-start-column="107" selection-end-line="45" selection-end-column="107" />
         </state>
       </provider>
     </entry>
