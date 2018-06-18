@@ -36,11 +36,11 @@
 
     if( file_exists(ABS_PATH . '.maintenance') ) {
         if(!osc_is_admin_user_logged_in()) {
-            
+
             header('HTTP/1.1 503 Service Temporarily Unavailable');
             header('Status: 503 Service Temporarily Unavailable');
             header('Retry-After: 900');
-            
+
             if(file_exists(WebThemes::newInstance()->getCurrentThemePath().'maintenance.php')) {
                 osc_current_web_theme_path('maintenance.php');
                 die();
